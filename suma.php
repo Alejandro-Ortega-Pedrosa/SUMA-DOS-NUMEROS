@@ -4,6 +4,6 @@
     $b=$_GET['b'];
     $c=$a+$b;
 
-    echo "$a+$b=$c"
+    echo "EL RESULTADO DE $a+$b ES $c"
 
 ?>
